@@ -6,7 +6,9 @@
 
 - #### download and run
 
-> java -jar lombook-1.18.20.jar
+```
+ java -jar lombook-1.18.20.jar
+ ```
 
 To verify the installation click About-> Eclipse 
 Check if you are able to see Lombok name there or not.
